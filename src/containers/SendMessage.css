@@ -1,0 +1,9 @@
+.sendMsg{
+    padding-left: 20px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: white;
+}
+.send{
+    align-items: center;
+}

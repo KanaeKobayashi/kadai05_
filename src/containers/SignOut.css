@@ -1,0 +1,10 @@
+.signOutWrapper{
+    background-color: #222a41;
+    color: white;
+    height: 75px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px 0;
+}
